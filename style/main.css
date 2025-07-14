@@ -144,7 +144,7 @@ section:not(.sticky-container) {
 
 .hero {
     height: 100vh;
-    background-image: url('/assets/img/Mini\ zolto\ 2\ produzena-dvojka.jpg');
+    background-image: url('../assets/img/cover.jpg');
     background-size: cover;
     background-position: center;
 

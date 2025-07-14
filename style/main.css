@@ -144,8 +144,8 @@ section:not(.sticky-container) {
 
 .hero {
     height: 100vh;
-    background-image: url('../assets/img/cover.jpg');
     background-size: cover;
+    background-image: url('../assets/img/cover.jpg');
     background-position: center;
 
     color: white;
